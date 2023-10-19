@@ -1,7 +1,7 @@
 # Kidney Disease Classification Project
-End-to-End Kidney Disease Classification System using Advanced ML Algorithms
-An all-encompassing project utilizing CNN methodology and the pre-trained Keras VGG16 model to accurately classify kidney images. Incorporated modular coding, MLflow, DVC, with seamless deployment on AWS using a robust CI/CD pipeline
-This project employs a Convolutional Neural Network (CNN) to accurately classify kidney diseases. By leveraging advanced image recognition techniques, it helps identify specific abnormalities or tumors within the kidneys, aiding in early detection and timely medical intervention. With seamless deployment on Amazon Web Services (AWS), this solution provides a scalable and accessible tool for healthcare professionals and researchers seeking efficient and reliable kidney disease diagnosis and monitoring.
+End-to-End Kidney Disease Classification System using Advanced ML Algorithms.
+
+This project employs a Convolutional Neural Network (CNN) and the pre-trained Keras VGG16 model to accurately classify kidney diseases.Incorporated modular coding, MLflow, DVC, with seamless deployment on AWS using a robust CI/CD pipeline. By leveraging advanced image recognition techniques, it helps identify specific abnormalities or tumors within the kidneys, aiding in early detection and timely medical intervention. This solution provides a scalable and accessible tool for healthcare professionals and researchers seeking efficient and reliable kidney disease diagnosis and monitoring.
 ## Workflows
 
 1. Update config.yaml
